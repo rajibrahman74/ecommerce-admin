@@ -4,9 +4,9 @@ import { BsChevronDown } from "react-icons/bs";
 
 const data = [
   { id: 1, name: "Home", url: "/" },
-  { id: 2, name: "About", url: "/about" },
-  { id: 3, name: "Categories", subMenu: true },
-  { id: 4, name: "Contact", url: "/contact" },
+  { id: 2, name: "Shop", url: "/shop" },
+  { id: 2, name: "Check out", url: "/check-out" },
+  { id: 4, name: "Login", url: "/login" },
 ];
 
 const MenuMobile = ({
